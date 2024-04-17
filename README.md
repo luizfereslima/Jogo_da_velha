@@ -57,7 +57,7 @@ Este é um jogo da velha simples desenvolvido em HTML, CSS e JavaScript. O objet
 Este código implementa a lógica do jogo da velha em JavaScript, permitindo aos jogadores jogar e determinando automaticamente o vencedor.
 
 ## Créditos:
-Este projeto foi desenvolvido como parte de um tutorial ou exercício prático de programação. Créditos aos criadores originais do tutorial ou curso.
+Este projeto foi desenvolvido como parte de um tutorial ou exercício prático de programação.
 
 ## Conclusão:
 O jogo da velha é um projeto simples, mas divertido, que demonstra conceitos básicos de desenvolvimento web usando HTML, CSS e JavaScript. Com um pouco de criatividade e habilidades de programação, é possível criar muitas variações e melhorias neste projeto básico.
